@@ -18,16 +18,16 @@ sidebar:
   citizenship: Filipino
   # website: blog.webjeda.com #do not add http://
   linkedin: ricardo-elmark-pumanes-jr-b7b044166
-  xing: alandoe
-  github: sharu725
+  xing:
+  github: ricpumanes
   telegram: # add your nickname without '@' sign
-  gitlab:
+  gitlab: ricpumanes
   bitbucket:
-  twitter: "@webjeda"
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  twitter:
+  stack-overflow: 1577427/ickyrr
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: http://www.africau.edu/images/default/sample.pdf
+  pdf: https://v2.convertapi.com/d/jaxi62s58ml0uzxbji1s34ywb9jw8qqg/ricpumanes-github-io-online-cv-print.pdf
 
   languages:
     title: Languages
