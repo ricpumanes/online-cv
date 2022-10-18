@@ -3,200 +3,132 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Ric Pumanes
+  tagline: Front-End Developer
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+  # Sidebar links
+  email: ricpumanes@gmail.com
+  phone: 09985828471
+  timezone: Asia/Manila Timezone
+  citizenship: Filipino
+  # website: blog.webjeda.com #do not add http://
+  linkedin: ricardo-elmark-pumanes-jr-b7b044166
+  xing: alandoe
+  github: sharu725
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter: "@webjeda"
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+  languages:
+    title: Languages
+    info:
+      - idiom: English
+        level: Professional
 
-        - idiom: French
-          level: Professional
+      - idiom: Filipino
+        level: Native
 
-        - idiom: Spanish
-          level: Professional
+  interests:
+    title: Interests
+    info:
+      - item: Gaming
+        link:
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+      - item: Music
+        link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+      - item: Technology
+        link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+  title: Career Profile
+  summary: |
+    Passionate and experienced Front End Developer offering 7 years of experience building high performing presentation layers, building reusable components, and performance optimization.
 education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+  title: Education
+  info:
+    - degree: Bachelor of Science in Computer Science
+      university: AMA Computer College
+      time: 2008 - 2012
 experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+  title: Experiences
+  info:
+    - role: Software Engineer
+      time: 2015 - 2022
+      company: Appshouse Inc., Cebu, PH
+      details: |
+        - Handled cross browser compatibility for the front end.
+        - Developed several apps with react & react-native
+        - Architected frontend, created reducers, data retrieval mechanisms.
+        - Responsible for state management(Redux based) of our application our customers.
+    - role: Web Developer
+      time: 2014 - 2015
+      company: CSPS Inc., Cebu, PH
+      details: |
+        - Build websites using WordPress.
+        - Working knowledge of Content Management Systems: Wordpress.
+        - Provide technical support to clients.
+        - Customize themes to meet clients’ requirements.
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Projects
+  intro: >
+    Here is a list of projects that I worked on:
+  assignments:
+    - title: Tribe
+      link: "#"
+      tagline: "A mobile first application mainly used by employees. It is composed of tools used to solve the employees and employer's problems such as chat for communication, kanban or task management, defects filing, employee info, and more."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: Moegy
+      link: "https://moegy.com"
+      tagline: "A mobile first content sharing platform similar to OnlyFans or Alua."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: LocalGift PH
+      link: "https://localgift.ph"
+      tagline: "An e-commerce web application that allows users to purchase gifts for their love ones and have them delivered to their address to surprise them."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: TrulyAsian
+      link: "trulyasian.com/client"
+      tagline: "A subscription-based dating application available as a mobile app and a web app which allows users to communicate with each other via chat or video call."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: Tale N Temp (mobile)
+      link: "https://apps.apple.com/ng/app/tale-n-temp/id1608760873"
+      tagline: "TaleNTemp is an application for scheduling internal and external resources, automatically, fast and easy. Available for both mobile (iOS and Android) and web"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    - title: GamesterNation
+      link: "https://gamesternation.com"
+      tagline: "GamesterNation is a video streaming platform for gamers."
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+  toolset:
+    - name: React JS
+      level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+    - name: Next JS
+      level: 85%
 
-      - name: Angular
-        level: 98%
+    - name: React-Query & Redux (with Thunk or Saga)
+      level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+    - name: Javascript & Node Js
+      level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
+    - name: Tailwind | Bootstrap CSS
+      level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+    - name: HTML5 & CSS
+      level: 95%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
