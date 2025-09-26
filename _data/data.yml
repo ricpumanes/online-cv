@@ -13,11 +13,11 @@ sidebar:
 
   # Sidebar links
   email: ricpumanes@gmail.com
-  phone: 09985828471
+  phone: +639985828471
   timezone: Asia/Manila Timezone
   citizenship: Filipino
   # website: blog.webjeda.com #do not add http://
-  linkedin: ricardo-elmark-pumanes-jr-b7b044166
+  linkedin: recpjr
   xing:
   github: ricpumanes
   telegram: # add your nickname without '@' sign
@@ -53,7 +53,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Passionate and experienced Front End Developer offering 7 years of experience building high performing presentation layers, building reusable components, and performance optimization.
+    Versatile Front-End Developer with a solid foundation in web development. Since launching my career in 2015 as a Web Developer, I’ve been dedicated to creating innovative and user-centric web applications, blending a strong technical skill set with a passion for clean, efficient code.
 education:
   title: Education
   info:
@@ -63,16 +63,37 @@ education:
 experiences:
   title: Experiences
   info:
+    - role: Full Stack Developer
+      time: Apr 2023 - Sept 2023
+      company: Prostrive IO
+      details: |
+        - Creating user interfaces and interactive experiences using React JS and Vue JS
+        - Building server-side applications and APIs with Nest JS (Node JS framework)
+        - Managing and optimizing Postgres databases to ensure data integrity and performance
+        - Designing and implementing APIs for seamless communication between the front-end and back-end
+        - Integrating third-party services and systems to enhance the functionality of web applications
+        - Writing integration and end-to-end (E2E) tests to ensure the reliability and stability of the applications
+    - role: Software Developer (Freelance)
+      time: Oct 2022 - Apr 2023
+      company: Remote
+      details: |
+        - Developing and maintaining user interfaces for web applications using React JS and Next JS
+        - Implementing state management solutions using React-Query and Redux (with Thunk or Saga)
+        - Collaborating with designers to create responsive and visually appealing layouts using Tailwind CSS and Bootstrap CSS
+        - Writing clean, maintainable, and efficient code in JavaScript and Node JS
+        - Conducting code reviews and providing constructive feedback to team members
+        - Ensuring cross-browser compatibility and optimizing performance for a seamless user experience
     - role: Software Engineer
-      time: 2015 - 2022
+      time: Dec 2015 - Sept 2022
       company: Appshouse Inc., Cebu, PH
       details: |
-        - Handled cross browser compatibility for the front end.
-        - Developed several apps with react & react-native
-        - Architected frontend, created reducers, data retrieval mechanisms.
-        - Responsible for state management(Redux based) of our application our customers.
+        - Implement responsive, cross-browser compatible apps
+        - Built apps such as chat, task management, performance tracking, analytics, entertainment platforms, and tools used in a day-to-day basis.
+        - Maintain existing projects and help improve apps
+        - Architected and maintain front end boilerplates with build tools
+        - Integrate and collaborate with Back End Developers
     - role: Web Developer
-      time: 2014 - 2015
+      time: Jan 2014 - Dec 2015
       company: CSPS Inc., Cebu, PH
       details: |
         - Build websites using WordPress.
