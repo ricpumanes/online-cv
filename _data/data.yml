@@ -27,7 +27,7 @@ sidebar:
   stack-overflow: 1577427/ickyrr
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: https://v2.convertapi.com/d/jaxi62s58ml0uzxbji1s34ywb9jw8qqg/ricpumanes-github-io-online-cv-print.pdf
+  pdf: https://drive.google.com/file/d/1tJotbcmsqCU2jOwKWWZTQT6eeL6_gZrZ/view?usp=sharing
 
   languages:
     title: Languages
@@ -63,6 +63,48 @@ education:
 experiences:
   title: Experiences
   info:
+    - role: Lead Front-End Developer
+      time: Jan  2024 — Feb 2025
+      company: MRM
+      details: |
+        - Worked mainly with React, Next.js, and TypeScript to build front-end features for various projects
+        - Built responsive and mobile-friendly pages using HTML5, SASS/CSS, and sometimes CSS-in-JS libraries
+        - Integrated data from REST APIs and GraphQL to display real-time content and improve user experience
+        - Helped maintain and improve a component library using Storybook, making sure everything looked and worked consistently
+        - Focused on improving page speed and performance by identifying and fixing client-side issues
+        - Added small animations using CSS and JavaScript to make the interface feel smoother and more interactive
+        - Worked closely with the team in an Agile/Scrum setup — joining daily stand-ups, sprint planning, and team discussions
+        - Used Git and followed GitFlow for version control and managing tasks with other devs
+        - Handled front-end tooling like npm, Webpack, and Azure DevOps, especially during build and deployment
+        - Made sure everything looked good and worked well on different devices (desktop, tablet, mobile) using responsive design
+        - Coordinated with designers to bring their mockups to life, making sure the designs were followed properly
+        - Reviewed code, shared feedback, and helped maintain clean and consistent coding standards
+        - Always tried to stay updated with the latest front-end tools and practices to improve how we build things
+    - role: Software Developer
+      time: Feb 2024 — Oct 2024
+      company: PanoptikDigital Inc.
+      details: |
+        - Developed and optimized front-end features for web applications, ensuring seamless integration with backend services.
+        - Setup a multi-site/build React application for an admin portal, streamlining application management.
+        - Collaborated closely with backend developers to design and implement efficient, scalable solutions.
+        - Partnered with cross-functional teams, including frontend, backend, and QA, to develop ideas and solve challenges.
+        - Enhanced code quality and performance through continuous improvements and refactoring.
+        - Integrated animated assets from Figma via Lottie, improving user experience with smooth, visually appealing animations.
+        - Implemented GitHub CI/CD pipelines using GitHub Actions for automated testing and deployment workflows.
+        - Managed deployments to DigitalOcean droplet servers, ensuring stable and secure releases.
+        - Participated in weekly company meetings, engaging with the CEO and management to align development goals with business objectives.
+    - role: Software Developer
+      time: Jun 2023 — Dec 2023
+      company: Trade Window Inc.
+      details: |
+        -  Design and develop (simple) solutions (to complex problems) using recognised methodologies and patterns
+        - Deliver solutions to meet requirements and code quality standards
+        - Work collaboratively (in a geographically distributed team)
+        - Develop intuitive Web UIs and reusable components
+        - Collaborate with the UI/UX design team
+        - Work in an Agile (Scrum) development environment
+        - Refactor and optimise code, create/maintain documentation
+        - Write automated tests (i.e. unit and component tests)
     - role: Full Stack Developer
       time: Apr 2023 - Sept 2023
       company: Prostrive IO
